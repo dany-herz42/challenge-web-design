@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Colton Smith",
+    "text": "We need the same printed design as the one we had ordered a weel prior. Not only did they find the original order, but we also received it in time. Exceelent!",
+    "photo": "colton",
+    "align": "align-self-start"
+  },
+  {
+    "name": "Irene Roberts",
+    "text": "Customer services is always excellent and very quick turn around. Completely delighted with the simplicity of the purchase and the speed of delivery.",
+    "photo": "irene",
+    "align": "align-self-center"
+  }
+  ,
+  {
+    "name": "Anne Wallace",
+    "text": "Put an order with this company and can only price them for the very high standar. Will definitely use them again and recommended them to everyone.",
+    "photo": "anne",
+    "align": "align-self-end"
+  }
+]
